@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/63cb63cc2e2b49c5a9e3a42444a758b9/artifacts
+end_time: 1686305125461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63cb63cc2e2b49c5a9e3a42444a758b9
+run_name: marvelous-mole-270
+run_uuid: 63cb63cc2e2b49c5a9e3a42444a758b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305120356
+status: 3
+tags: []
+user_id: sharvali

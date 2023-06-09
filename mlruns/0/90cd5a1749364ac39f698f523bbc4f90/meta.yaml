@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/90cd5a1749364ac39f698f523bbc4f90/artifacts
+end_time: 1686302540442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90cd5a1749364ac39f698f523bbc4f90
+run_name: crawling-cod-948
+run_uuid: 90cd5a1749364ac39f698f523bbc4f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686302210114
+status: 4
+tags: []
+user_id: sharvali

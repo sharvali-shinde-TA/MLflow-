@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285968996213811027/b06c3b7e7e964399b2d94b88fe1c7775/artifacts
+end_time: 1686298253984
+entry_point_name: ''
+experiment_id: '285968996213811027'
+lifecycle_stage: active
+run_id: b06c3b7e7e964399b2d94b88fe1c7775
+run_name: fortunate-sponge-737
+run_uuid: b06c3b7e7e964399b2d94b88fe1c7775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686298252520
+status: 3
+tags: []
+user_id: sharvali

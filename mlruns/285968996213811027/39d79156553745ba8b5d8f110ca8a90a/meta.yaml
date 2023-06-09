@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285968996213811027/39d79156553745ba8b5d8f110ca8a90a/artifacts
+end_time: 1686298869756
+entry_point_name: ''
+experiment_id: '285968996213811027'
+lifecycle_stage: active
+run_id: 39d79156553745ba8b5d8f110ca8a90a
+run_name: wise-snake-836
+run_uuid: 39d79156553745ba8b5d8f110ca8a90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686298868328
+status: 3
+tags: []
+user_id: sharvali

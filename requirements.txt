@@ -4,6 +4,7 @@ scikit-learn
 mlflow[extra]
 jupyter
 pipfile
-psycopg2
+psycopg2-binary
+# psycopg2
 tensorflow
 keras
